@@ -1,0 +1,5 @@
+﻿  Server.cpp
+C:\Users\1\LR\AoS\LR2\Server\Server\Server.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\LR\AoS\LR2\Server\Server\Server.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\LR\AoS\LR2\Server\Server\Server.cpp(12,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Server.vcxproj -> C:\Users\1\LR\AoS\LR2\Server\Debug\Server.exe

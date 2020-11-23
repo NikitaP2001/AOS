@@ -1,0 +1,9 @@
+﻿  Client.cpp
+C:\Users\1\LR\AoS\LR2\Client\Client\Client.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\1\LR\AoS\LR2\Client\Client\Client.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating code
+  1 of 174 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Client.vcxproj -> C:\Users\1\LR\AoS\LR2\Client\Release\Client.exe
